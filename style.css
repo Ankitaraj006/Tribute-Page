@@ -1,0 +1,9 @@
+#img-div{
+   height: 600px;
+   width: 500px;
+}
+
+img {
+  max-width:500px;
+  display:block;
+}
